@@ -1,5 +1,5 @@
 # covid_dashboard_metabase
-A metabase dashboard with analysis regarding Covid19 in the federal states of Germany.
+Daily updated metabase dashboards with analysis regarding Covid19 in the federal states of Germany.
 
 Data Source: Robert-Koch Institut (RKI)
 
