@@ -13,4 +13,4 @@ Container on an AWS EC2 machine.
 
 [Link](http://ec2-3-123-231-79.eu-central-1.compute.amazonaws.com/public/dashboard/96406184-1318-449b-8b31-655276cbacaa) to a dashboard with information on the current situation in Main-Spessart, Würzburg and Bavaria.
 
-<p><img src="https://github.com/sloschert/covid_dashboard_metabase/blob/main/metabase_flowchart.pdf" alt="flowchart" title="Flowchart" /></p>
+<p><img src="https://github.com/sloschert/covid_dashboard_metabase/blob/main/metabase_flowchart.jpg" alt="flowchart" title="Flowchart" /></p>
